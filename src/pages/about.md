@@ -12,4 +12,4 @@ description: "I am a lover of the outdoors. You can find me hiking, biking, rive
 
 My career has been in software engineering with experience working across teams, building scalable solutions used by millions of people every day.  My work across teams and organizations has helped me develop the skills necessary to clearly communicate, ask questions, learn from others and deliver products with features customers need to run their business.
 
-I bring energy, excitment and a work ethic to get things done.
+I bring energy, excitment and a strong work ethic to get things done.
